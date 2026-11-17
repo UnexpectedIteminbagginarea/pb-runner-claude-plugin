@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pb-runner": {
+      "type": "http",
+      "url": "https://mcp.pb-runner.com/mcp"
+    }
+  }
+}

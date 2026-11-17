@@ -1,0 +1,20 @@
+{
+  "name": "pb-runner",
+  "displayName": "PB-Runner Running Coach",
+  "version": "1.0.0",
+  "description": "Your AI running coach, both ways: Claude reads your runs, heart rate and recovery, then writes your next session to your Garmin, Apple Watch, iPhone or Android. Adds a coaching skill to the PB-Runner connector.",
+  "author": {
+    "name": "Bunker 47 LTD",
+    "email": "support@pb-runner.com",
+    "url": "https://pb-runner.com"
+  },
+  "homepage": "https://pb-runner.com/guide",
+  "repository": "https://github.com/UnexpectedIteminbagginarea/pb-runner-claude-plugin",
+  "license": "MIT",
+  "keywords": ["running coach", "training plan", "marathon", "half marathon", "10K", "5K", "Garmin", "Apple Watch", "heart rate", "recovery"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://pb-runner.com/guide",
+  "supportUrl": "https://pb-runner.com/support",
+  "privacyPolicyUrl": "https://pb-runner.com/privacy",
+  "termsOfServiceUrl": "https://pb-runner.com/terms"
+}
