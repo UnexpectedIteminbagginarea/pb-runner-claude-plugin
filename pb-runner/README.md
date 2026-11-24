@@ -4,7 +4,7 @@ Connect Claude to your running data and use it as your running coach. PB-Runner 
 
 ## What you can ask
 
-Ask how a run went and Claude reads your splits and pace. Ask for a plan for a 5K, 10K, half marathon or marathon and it drafts the sessions, shows them to you and saves them when you say yes. Saved sessions appear in the PB-Runner app's Schedule, play on your Apple Watch, your phone or the PB-Runner Garmin watch app with live cues, and can go straight to your Garmin Connect calendar.
+Ask how a run went and Claude reads your splits and pace. Ask for your personal bests, your goal progress or a race prediction. Ask for a plan for a 5K, 10K, half marathon or marathon and it drafts the sessions, shows them to you and saves them when you say yes. Saved sessions appear in the PB-Runner app's Schedule, play on your Apple Watch, your phone or the PB-Runner Garmin watch app with live cues, and can go straight to your Garmin Connect calendar.
 
 - Help me set up my training plan.
 - Analyze the splits of my last run.
@@ -22,7 +22,7 @@ Claude reads your training when you ask, and it changes your schedule, your prof
 
 ## Get the app
 
-The PB-Runner app is free on the [App Store](https://apps.apple.com/app/id6769277536) and [Google Play](https://play.google.com/store/apps/details?id=com.bunker47.pbrunner). Link Garmin Connect in the app and your Garmin runs arrive by themselves, or record with PB-Runner on your Apple Watch, iPhone or Android phone. Connect PB-Runner in Claude with the same Apple or Google account you use in the app.
+The PB-Runner app is free on the [App Store](https://apps.apple.com/app/id6769277536) and [Google Play](https://play.google.com/store/apps/details?id=com.bunker47.pbrunner). Runs from a Garmin linked in the app arrive by themselves, or record with PB-Runner on your Apple Watch, iPhone or Android phone. Connect PB-Runner in Claude with the same Apple or Google account you use in the app.
 
 ## Data
 
