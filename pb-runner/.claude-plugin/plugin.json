@@ -1,7 +1,7 @@
 {
   "name": "pb-runner",
   "displayName": "PB-Runner Running Coach",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Your running coach, both ways: Claude reads your runs and recovery from Garmin, Apple Watch, iPhone or Android, then writes your next session to your watch. Free to start.",
   "author": {
     "name": "Bunker 47 LTD",
